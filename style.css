@@ -1,6 +1,6 @@
 .slidev-layout {
     @apply px-14 py-10 text-4xl leading-tight;
-    font-weight: 600;
+    font-weight: 700;
 
     li {
         @apply py-[0.4rem] leading-tight;
